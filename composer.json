@@ -1,0 +1,13 @@
+{
+    "name": "sandeep.kumar/share-car",
+    "require-dev": {
+        "roots/bedrock": "v1.7"
+    },
+    "authors": [
+        {
+            "name": "Sandeep Kumar",
+            "email": "sandeep.kumar@iris-worldwide.com"
+        }
+    ],
+    "require": {}
+}
